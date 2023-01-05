@@ -7,4 +7,5 @@ Here you can see all the projects I built during my journey of learning and prog
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yovel-halabia-450a2b1b2/), [Email](mailTo:yovelh247@gmail.com).
 
 🚀 Some of my main projects (arranged in chronological order):
-- [Clanbeat](https://clanbeat.com) - a employee onboarding built with microservie, angularjs, golang, postgres
+- [NOTO](https://noto-back-deploy.vercel.app/) - a demo E-commerce website, you can order and make a purchase.
+- [Pizza-Pizza](https://pizza-pizza-project.vercel.app/) - demo pizza website, you can order and make a purchase.
