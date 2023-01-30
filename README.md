@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yovel Halabia - Full Stack developer, looking for new job opportunity.
+I am Yovel - Full Stack developer, looking for new job opportunity.
 Here you can see all the projects I built during my journey of learning and progress in the world development.
 
 - 💬 Ask me about Javascript / Typescript, React, Redux, Nodejs/ Expressjs, Mongodb.
