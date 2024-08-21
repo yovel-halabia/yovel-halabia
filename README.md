@@ -5,6 +5,6 @@ Here you can see all the projects I built during my journey of learning and prog
 
 🚀 main projects:
 - [NOTO](https://github.com/yovel-halabia/noto-front-end) - a demo E-commerce website.
-- [Pizza-Pizza](https://github.com/yovel-halabia/video-tracker) - Video tracker website.
+- [Video Tracker](https://github.com/yovel-halabia/video-tracker) - Video tracker website.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yovel-halabia-450a2b1b2/), [Email](mailTo:yovelh247@gmail.com).
